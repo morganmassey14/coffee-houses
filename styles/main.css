@@ -1,0 +1,28 @@
+.pageHeader {
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display:flex;
+    justify-content: center;
+    padding-bottom: 28px;
+    color: #21130d
+
+}
+
+.list {
+    font-family: 'Times New Roman', Times, serif; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color:#eeeee4;
+}
+
+.shop {
+flex-direction: row;
+flex-basis: 30%;
+border-style: solid;
+border-width: 1px;
+height: auto
+}
+article {
+    font-size: large;
+}
